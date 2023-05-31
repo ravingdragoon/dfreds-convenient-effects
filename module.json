@@ -19,8 +19,7 @@
   "version": "4.2.0",
   "compatibility": {
     "minimum": 10,
-    "verified": "10.291",
-    "maximum": 10
+    "verified": "10.291"
   },
   "scripts": [],
   "esmodules": ["./scripts/main.js"],
